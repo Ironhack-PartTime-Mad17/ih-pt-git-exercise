@@ -5,5 +5,6 @@
  - Miguel
 
 ## Students
+- Cayetana
 ## Teachers
  - Lucas
