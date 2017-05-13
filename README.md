@@ -5,5 +5,7 @@
  - Miguel
 
 ## Students
+ - Karla :)
+
 ## Teachers
  - Lucas
