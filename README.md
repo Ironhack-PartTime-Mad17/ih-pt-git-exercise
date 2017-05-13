@@ -3,6 +3,7 @@
 ## TA Names
  - Enrique
  - Miguel
+ - Vicente
 
 ## Students
 ## Teachers
